@@ -1,2 +1,1 @@
 onnxruntime_pybind11_state.pyd filter=lfs diff=lfs merge=lfs -text
-onnxruntime_pybind11_state.* filter=lfs diff=lfs merge=lfs -text
