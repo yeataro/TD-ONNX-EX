@@ -1,5 +1,5 @@
 # TD-ONNX-EX
-Examples of using [onnxruntime](https://github.com/microsoft/onnxruntime) in TouchDesigner.
+Examples of using [ONNX Runtime](https://github.com/microsoft/onnxruntime) in TouchDesigner.
 
 ![](img/scp01.png)
 
